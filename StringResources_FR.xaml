@@ -28,48 +28,48 @@
     <system:String x:Key="All">Tous</system:String>
     <system:String x:Key="Installed">Installé</system:String>
     <system:String x:Key="New">Nouveau</system:String>
-    <system:String x:Key="CreateProfileToolTip">Create Fix Profile</system:String>
+    <system:String x:Key="CreateProfileToolTip">Créer Profil de Fix</system:String>
     <system:String x:Key="Edit">Editer</system:String>
-    <system:String x:Key="EditProfileToolTip">Edit Fix Profile</system:String>
+    <system:String x:Key="EditProfileToolTip">Editer Profil du Fix</system:String>
     <system:String x:Key="Delete">Supprimer</system:String>
-    <system:String x:Key="DeleteProfileToolTip">Remove Fix Profile</system:String>
+    <system:String x:Key="DeleteProfileToolTip">Effacer Profil du Fix</system:String>
     
     <!-- Installation Tab -->
     <system:String x:Key="NoGamesInstalled">Aucun jeu compatible installé.</system:String>
-    <system:String x:Key="Play2D">Jouer 2D</system:String>
-    <system:String x:Key="Play3D">Jouer 3D</system:String>
+    <system:String x:Key="Play2D">Jouer en 2D</system:String>
+    <system:String x:Key="Play3D">Jouer en 3D</system:String>
     <system:String x:Key="InstallFix">Installer le fix 3D</system:String>
-    <system:String x:Key="InstallFixCompleted">Installation complété</system:String>
+    <system:String x:Key="InstallFixCompleted">Installation complétée</system:String>
     <system:String x:Key="InstallFixFailed">Installation échouée. Vérifier le chemin d'installation</system:String>
-    <system:String x:Key="InstallFixFailed02" xml:space="preserve">Erreur: Le Fix n'a pas pu être installé.&#x0d;&#x0d;Soyez sûr que 3D Fix Manager a été démarré avec les droits administrateurs puis rééssayez.</system:String>
-    <system:String x:Key="InstallWrapperFailed" xml:space="preserve">Erreur: Le Wrapper n'a pas pu être installé.&#x0d;&#x0d;Soyez sûr que 3D Fix Manager a été démarré avec les droits administrateurs puis rééssayez.</system:String>
-    <system:String x:Key="FixWrapperOutdated">Ce fix inclus une ancienne version de 3dmigoto.</system:String>
+    <system:String x:Key="InstallFixFailed02" xml:space="preserve">Erreur: Le Fix n'a pas pu être installé.&#x0d;&#x0d;S'assurer que 3D Fix Manager a été démarré avec les droits administrateurs puis rééssayer.</system:String>
+    <system:String x:Key="InstallWrapperFailed" xml:space="preserve">Erreur: Le Wrapper n'a pas pu être installé.&#x0d;&#x0d;S'assurer que 3D Fix Manager a été démarré avec les droits administrateurs puis rééssayer.</system:String>
+    <system:String x:Key="FixWrapperOutdated">Ce fix inclut une ancienne version de 3dmigoto.</system:String>
     <system:String x:Key="DownloadFix">Télécharger le Fix 3D</system:String>
     <system:String x:Key="UninstallFix">Désinstaller le Fix 3D</system:String>
-    <system:String x:Key="UninstallFixCompleted">Désinstallation complété</system:String>
+    <system:String x:Key="UninstallFixCompleted">Désinstallation terminée</system:String>
     <system:String x:Key="UninstallFixFailed">Désinstallation échouée</system:String>
     <system:String x:Key="InstallWrapper">Installer le Wrapper</system:String>
-    <system:String x:Key="DeleteDownload">Supprimer download</system:String>
-    <system:String x:Key="DeleteDownloadToolTip">Deletes downloaded files of a 3D fix from 3D Fix Manager directory.</system:String>
-    <system:String x:Key="DeleteSuccess">Success. All downloaded files deleted.</system:String>
-    <system:String x:Key="DeleteError" xml:space="preserve">Error: Not all files could be deleted. &#x0d;&#x0d;Please make sure that no file is in use.</system:String>
-    <system:String x:Key="SourceFolder">Source Folder</system:String>
-    <system:String x:Key="SourceFolderToolTip">Opens related fix folder in windows explorer.</system:String>
-    <system:String x:Key="VisitSteamStore">Steam Store</system:String>
-    <system:String x:Key="VisitSteamStoreToolTip">Opens Steam Store in webbrowser to get additional information of the game.</system:String>
+    <system:String x:Key="DeleteDownload">Supprimer téléchargement</system:String>
+    <system:String x:Key="DeleteDownloadToolTip">Effacer les fichiers téléchargés d'un Fix 3D du répertoire de 3D Fix Manager.</system:String>
+    <system:String x:Key="DeleteSuccess">Succès. Tous les fichiers téléchargés ont été effacés.</system:String>
+    <system:String x:Key="DeleteError" xml:space="preserve">Erreur: Tous les fichiers ne peuvent pas être effacés. &#x0d;&#x0d;S'assurez qu'aucun fichier n'est en cours d'utilisation.</system:String>
+    <system:String x:Key="SourceFolder">Répertoire Source</system:String>
+    <system:String x:Key="SourceFolderToolTip">Ouvrir le répertoire du Fix dans windows explorer.</system:String>
+    <system:String x:Key="VisitSteamStore">visiter page du magasin Steam</system:String>
+    <system:String x:Key="VisitSteamStoreToolTip">Ouvrir page du magasin Steam dans le navigateur pour obtenir des informations supplémentaires du jeu.</system:String>
     <system:String x:Key="VisitHelixMod">HelixMod</system:String>
-    <system:String x:Key="VisitHelixModToolTip">Get more information about the selected fix on HelixMod Webpage.</system:String>
+    <system:String x:Key="VisitHelixModToolTip">Obtenir plus d'informations sur le Fix sélectionné sur la page Web d'Helixmod.</system:String>
     <system:String x:Key="ForceCompatibilityMode">Force CM</system:String>
-    <system:String x:Key="EnableFix">Enable Fix</system:String>
-    <system:String x:Key="DownloadCompleted">Download completed</system:String>
-    <system:String x:Key="Downloading">Downloading...</system:String>
-    <system:String x:Key="DownloadFailed">Download failed</system:String>
-    <system:String x:Key="Extracting">Etracting...</system:String>
-    <system:String x:Key="ExtractionFailed">Extraction failed</system:String>
-    <system:String x:Key="GameNotInstalled">Game not installed</system:String>
-    <system:String x:Key="OpenExplorerError">Error: Could not open path in Windows explorer. Path does not exist</system:String>
-    <system:String x:Key="HotkeyBackupFound">A hotkey backup was found. Do you want to restore it?</system:String>
-    <system:String x:Key="CreateHotkeyBackup">Do you want to create a backup of your hotkeys before uninstall?</system:String>
+    <system:String x:Key="EnableFix">Activer le Fix</system:String>
+    <system:String x:Key="DownloadCompleted">Téléchargement terminé</system:String>
+    <system:String x:Key="Downloading">Téléchargement en cours...</system:String>
+    <system:String x:Key="DownloadFailed">Téléchargement échoué</system:String>
+    <system:String x:Key="Extracting">Décompression...</system:String>
+    <system:String x:Key="ExtractionFailed">Décompression échouée</system:String>
+    <system:String x:Key="GameNotInstalled">Jeu non installé</system:String>
+    <system:String x:Key="OpenExplorerError">Erreur: Ne peut pas ouvrir le chemin dans Windows explorer. Le chemin n'existe pas</system:String>
+    <system:String x:Key="HotkeyBackupFound">Un raccourci de sauvegarde a été trouvé. Voulez-vous la restaurer?</system:String>
+    <system:String x:Key="CreateHotkeyBackup">Voulez-vous créer une sauvegarde de vos raccourcis avant de désinstaller?</system:String>
 
     <!--....................  New / Edit Profile Tab Start .......................... -->
 
